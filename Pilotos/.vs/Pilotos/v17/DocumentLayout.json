@@ -1,0 +1,302 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84F4901E-E2C3-43F0-A208-2E32F4C117E2}|Pilotos.csproj|c:\\users\\usuario\\desktop\\piloto progra3\\pilot-login-exercise-114393-artusa-manuel\\pilotos\\dtos\\postpilotodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F4901E-E2C3-43F0-A208-2E32F4C117E2}|Pilotos.csproj|solutionrelative:dtos\\postpilotodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F4901E-E2C3-43F0-A208-2E32F4C117E2}|Pilotos.csproj|c:\\users\\usuario\\desktop\\piloto progra3\\pilot-login-exercise-114393-artusa-manuel\\pilotos\\controllers\\pilotocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F4901E-E2C3-43F0-A208-2E32F4C117E2}|Pilotos.csproj|solutionrelative:controllers\\pilotocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F4901E-E2C3-43F0-A208-2E32F4C117E2}|Pilotos.csproj|c:\\users\\usuario\\desktop\\piloto progra3\\pilot-login-exercise-114393-artusa-manuel\\pilotos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F4901E-E2C3-43F0-A208-2E32F4C117E2}|Pilotos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F4901E-E2C3-43F0-A208-2E32F4C117E2}|Pilotos.csproj|c:\\users\\usuario\\desktop\\piloto progra3\\pilot-login-exercise-114393-artusa-manuel\\pilotos\\repositories\\impl\\pilotorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F4901E-E2C3-43F0-A208-2E32F4C117E2}|Pilotos.csproj|solutionrelative:repositories\\impl\\pilotorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F4901E-E2C3-43F0-A208-2E32F4C117E2}|Pilotos.csproj|c:\\users\\usuario\\desktop\\piloto progra3\\pilot-login-exercise-114393-artusa-manuel\\pilotos\\repositories\\ipilotorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F4901E-E2C3-43F0-A208-2E32F4C117E2}|Pilotos.csproj|solutionrelative:repositories\\ipilotorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F4901E-E2C3-43F0-A208-2E32F4C117E2}|Pilotos.csproj|c:\\users\\usuario\\desktop\\piloto progra3\\pilot-login-exercise-114393-artusa-manuel\\pilotos\\models\\nacionalidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F4901E-E2C3-43F0-A208-2E32F4C117E2}|Pilotos.csproj|solutionrelative:models\\nacionalidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F4901E-E2C3-43F0-A208-2E32F4C117E2}|Pilotos.csproj|c:\\users\\usuario\\desktop\\piloto progra3\\pilot-login-exercise-114393-artusa-manuel\\pilotos\\controllers\\nacionalidadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F4901E-E2C3-43F0-A208-2E32F4C117E2}|Pilotos.csproj|solutionrelative:controllers\\nacionalidadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F4901E-E2C3-43F0-A208-2E32F4C117E2}|Pilotos.csproj|c:\\users\\usuario\\desktop\\piloto progra3\\pilot-login-exercise-114393-artusa-manuel\\pilotos\\context\\pilotoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F4901E-E2C3-43F0-A208-2E32F4C117E2}|Pilotos.csproj|solutionrelative:context\\pilotoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F4901E-E2C3-43F0-A208-2E32F4C117E2}|Pilotos.csproj|c:\\users\\usuario\\desktop\\piloto progra3\\pilot-login-exercise-114393-artusa-manuel\\pilotos\\mappingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F4901E-E2C3-43F0-A208-2E32F4C117E2}|Pilotos.csproj|solutionrelative:mappingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F4901E-E2C3-43F0-A208-2E32F4C117E2}|Pilotos.csproj|c:\\users\\usuario\\desktop\\piloto progra3\\pilot-login-exercise-114393-artusa-manuel\\pilotos\\models\\piloto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F4901E-E2C3-43F0-A208-2E32F4C117E2}|Pilotos.csproj|solutionrelative:models\\piloto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F4901E-E2C3-43F0-A208-2E32F4C117E2}|Pilotos.csproj|c:\\users\\usuario\\desktop\\piloto progra3\\pilot-login-exercise-114393-artusa-manuel\\pilotos\\dtos\\pilotodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F4901E-E2C3-43F0-A208-2E32F4C117E2}|Pilotos.csproj|solutionrelative:dtos\\pilotodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F4901E-E2C3-43F0-A208-2E32F4C117E2}|Pilotos.csproj|c:\\users\\usuario\\desktop\\piloto progra3\\pilot-login-exercise-114393-artusa-manuel\\pilotos\\pilotos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84F4901E-E2C3-43F0-A208-2E32F4C117E2}|Pilotos.csproj|solutionrelative:pilotos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F4901E-E2C3-43F0-A208-2E32F4C117E2}|Pilotos.csproj|c:\\users\\usuario\\desktop\\piloto progra3\\pilot-login-exercise-114393-artusa-manuel\\pilotos\\repositories\\impl\\nacionalidadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F4901E-E2C3-43F0-A208-2E32F4C117E2}|Pilotos.csproj|solutionrelative:repositories\\impl\\nacionalidadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F4901E-E2C3-43F0-A208-2E32F4C117E2}|Pilotos.csproj|c:\\users\\usuario\\desktop\\piloto progra3\\pilot-login-exercise-114393-artusa-manuel\\pilotos\\repositories\\inacionalidadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F4901E-E2C3-43F0-A208-2E32F4C117E2}|Pilotos.csproj|solutionrelative:repositories\\inacionalidadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F4901E-E2C3-43F0-A208-2E32F4C117E2}|Pilotos.csproj|c:\\users\\usuario\\desktop\\piloto progra3\\pilot-login-exercise-114393-artusa-manuel\\pilotos\\migrations\\pilotoscontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F4901E-E2C3-43F0-A208-2E32F4C117E2}|Pilotos.csproj|solutionrelative:migrations\\pilotoscontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F4901E-E2C3-43F0-A208-2E32F4C117E2}|Pilotos.csproj|c:\\users\\usuario\\desktop\\piloto progra3\\pilot-login-exercise-114393-artusa-manuel\\pilotos\\migrations\\20240703172311_initialpiloto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F4901E-E2C3-43F0-A208-2E32F4C117E2}|Pilotos.csproj|solutionrelative:migrations\\20240703172311_initialpiloto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F4901E-E2C3-43F0-A208-2E32F4C117E2}|Pilotos.csproj|c:\\users\\usuario\\desktop\\piloto progra3\\pilot-login-exercise-114393-artusa-manuel\\pilotos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84F4901E-E2C3-43F0-A208-2E32F4C117E2}|Pilotos.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PilotoController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\Controllers\\PilotoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PilotoController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\Controllers\\PilotoController.cs",
+              "RelativeToolTip": "Controllers\\PilotoController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAuwC8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T18:45:53.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Piloto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\Models\\Piloto.cs",
+              "RelativeDocumentMoniker": "Models\\Piloto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\Models\\Piloto.cs",
+              "RelativeToolTip": "Models\\Piloto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:40:27.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PilotoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\Dtos\\PilotoDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\PilotoDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\Dtos\\PilotoDto.cs",
+              "RelativeToolTip": "Dtos\\PilotoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T18:40:48.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPilotoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\Repositories\\IPilotoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IPilotoRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\Repositories\\IPilotoRepository.cs",
+              "RelativeToolTip": "Repositories\\IPilotoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:37:36.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Nacionalidad.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\Models\\Nacionalidad.cs",
+              "RelativeDocumentMoniker": "Models\\Nacionalidad.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\Models\\Nacionalidad.cs",
+              "RelativeToolTip": "Models\\Nacionalidad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:42:28.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostPilotoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\Dtos\\PostPilotoDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\PostPilotoDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\Dtos\\PostPilotoDto.cs",
+              "RelativeToolTip": "Dtos\\PostPilotoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T19:29:42.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAmwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:35:27.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PilotoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\Repositories\\Impl\\PilotoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Impl\\PilotoRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\Repositories\\Impl\\PilotoRepository.cs",
+              "RelativeToolTip": "Repositories\\Impl\\PilotoRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:37:57.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MappingConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\MappingConfiguration.cs",
+              "RelativeDocumentMoniker": "MappingConfiguration.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\MappingConfiguration.cs",
+              "RelativeToolTip": "MappingConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T18:42:49.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NacionalidadController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\Controllers\\NacionalidadController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NacionalidadController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\Controllers\\NacionalidadController.cs",
+              "RelativeToolTip": "Controllers\\NacionalidadController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T20:20:13.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PilotosContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\Context\\PilotosContext.cs",
+              "RelativeDocumentMoniker": "Context\\PilotosContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\Context\\PilotosContext.cs",
+              "RelativeToolTip": "Context\\PilotosContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwCgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:34:09.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NacionalidadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\Repositories\\Impl\\NacionalidadRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Impl\\NacionalidadRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\Repositories\\Impl\\NacionalidadRepository.cs",
+              "RelativeToolTip": "Repositories\\Impl\\NacionalidadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:34:05.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "INacionalidadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\Repositories\\INacionalidadRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\INacionalidadRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\Repositories\\INacionalidadRepository.cs",
+              "RelativeToolTip": "Repositories\\INacionalidadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:32:49.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Pilotos.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\Pilotos.csproj",
+              "RelativeDocumentMoniker": "Pilotos.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\Pilotos.csproj",
+              "RelativeToolTip": "Pilotos.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-03T16:30:04.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PilotosContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\Migrations\\PilotosContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\PilotosContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\Migrations\\PilotosContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\PilotosContextModelSnapshot.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAgwG8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:24:21.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240703172311_InitialPiloto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\Migrations\\20240703172311_InitialPiloto.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240703172311_InitialPiloto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\Migrations\\20240703172311_InitialPiloto.cs",
+              "RelativeToolTip": "Migrations\\20240703172311_InitialPiloto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:24:18.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Piloto Progra3\\pilot-login-exercise-114393-Artusa-Manuel\\Pilotos\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAACEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T16:37:02.994Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

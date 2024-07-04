@@ -1,0 +1,6 @@
+@Pilotos_HostAddress = http://localhost:5291
+
+GET {{Pilotos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

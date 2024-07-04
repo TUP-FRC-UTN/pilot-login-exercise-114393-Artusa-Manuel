@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+</head>
+<style>
+    #form{
+        border: 2px solid black;
+        margin: 10px;
+        padding: 15px;
+        border-radius: 15px;
+    }
+</style>
+<body>
+    <div class="m-6 p-6" id="form">
+        <form id="formPilotoNuevo" class="px-2">
+            <div class="form-group pt-4">
+                <label for="inputName">Nombre</label>
+                <input class="form-control" type="text" id="inputName" name="name" placeholder="Name">
+            </div>
+            <div class="form-group pt-4">
+                <label for="inputPassword">Password</label>
+                <input class="form-control" type="password" id="inputPassword" name="password" placeholder="Password">
+            </div>
+            <div class="form-group pt-4">
+                <label for="inputEmail">Email</label>
+                <input type="email" class="form-control" id="inputEmail" name="email" placeholder="name@example.com">
+            </div>
+            <div class="py-4">
+                <div class="row">
+                    <div class="col-6">
+                        <label class="pb-2" for="selectNacionalidad">Nacionalidad</label>
+                        <select name="nacionalidad" id="selectNacionalidad" class="form-select">
+                            <option value="" disabled selected>Seleccionar</option>
+                        </select>
+                        <label for="inputHoras">Cantidad de horas</label>
+                        <input class="form-control" type="number" id="inputHoras" name="horas" placeholder="Cantidad de horas">
+                    </div>
+                </div>
+            </div>
+            <div class="d-flex justify-content-end">
+                <button type="submit" class="btn btn-primary">Agregar Piloto</button>
+            </div>
+        </form>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.5/dist/jquery.validate.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            fetch("https://localhost:7264/Nacionalidades/GetAll")
+                .then(response => response.json())
+                
+                .then(nacionalidades => {
+                    const selectNac = document.getElementById("selectNacionalidad");
+                    nacionalidades.forEach(nacionalidad => {
+                        const option = document.createElement("option");
+                        option.value = nacionalidad.nacionalidadId;
+                        option.innerText = nacionalidad.descripcion;
+                        selectNac.appendChild(option);
+                    });
+                })
+                .catch(error => {
+                    console.error('', error);
+                });
+        });
+    </script>
+    <script src="js/validarPiloto.js"></script>
+</body>
+</html>
